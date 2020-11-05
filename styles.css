@@ -23,7 +23,7 @@ body{
 .container{
     width: 90%;
     max-width: 1080px;
-    margin: 30px auto;
+    margin: 100px auto;
     display: grid;
     grid-template-columns: repeat(4,1fr);
     grid-gap: 30px;
